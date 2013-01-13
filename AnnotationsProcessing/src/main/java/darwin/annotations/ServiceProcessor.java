@@ -34,7 +34,7 @@ import javax.tools.*;
  *
  * @author daniel
  */
-@SupportedSourceVersion(SourceVersion.RELEASE_7)
+@SupportedSourceVersion(SourceVersion.RELEASE_5)
 public class ServiceProcessor extends AbstractProcessor {
 
     private static final String servicePath = "META-INF/services/";
